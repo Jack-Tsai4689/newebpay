@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Jack\\Newebpay\\": "src/Jack/Newebpay"
+            "Jack\\": "src/Jack"
         }
     }
 }
